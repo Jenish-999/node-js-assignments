@@ -1,0 +1,33 @@
+Module - 1: Node - Javascript Fundamental
+
+1. What is the difference between JAVA and Javascript?
+ans: Both JAVA and Javascript are the programming language, but one major difference is that JAVA is one of the secure and Object Oriented Programming language, whereas Javascript is an Object Oriented Programming Script.
+
+2. What is Javascript?
+ans: javascript is a light weight programming language with first class functions. It is well-known for the web page scripting.
+
+3. What are the data types supported by Javascript?
+ans: There are plathora of data types available in Javascript such like number, string, boolean, object, big integer,and undefined value.  
+
+4. What are the scopes of a variable in Javascript?
+ans: There are in total two types of scopes in JS namely, Local Scope and Global Scope.
+Local Scope: "Local Scope is the scope where variable is only accessable within the function not outside the function"
+Global Scope: "Global Scope is the scope where variable is accessable within as well as ouside the function"
+
+5. What is callback?
+ans: Callback is the function which allow to pass an arguments to another function.
+
+6. What is closure? Give an example.
+ans: A closure is the combination of a function bundled together(enclosed) with references to its surrounding state (the lexical environment).
+
+7. What is the difference between the operators '==' & '==='?
+ans: Both operators performs same functionality, but major difference is that '==' compare variables with each other, whereas '===' do compare variables with each other along with it's data types.
+
+8. What is the difference between null & undefined?
+ans: null means it is the intentional absence of the value.However, undefined value does not exist in the compiler.
+
+9. What would be the result of 2+5+"3"?
+ans: The result will be : 73.
+
+10. What is the difference between Call & Apply?
+ans: The call() method takes arguments separately.However, the apply() method takes arguments as an array. 
